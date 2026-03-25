@@ -55,7 +55,7 @@ The dataset includes customer information such as:
 ## 🚀 How to Run
 
 1. Clone the repository:
-git clone https://github.com/your-username/Telecom-Customer-Churn-Prediction.git
+git clone https://github.com/abdelrhman-hamada/Telecom-Customer-Churn-Prediction.git
 
 
 2. Install dependencies:
